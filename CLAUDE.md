@@ -14,6 +14,7 @@ Este repositorio se usa como espacio de trabajo de la **gestión de la tienda Sh
 ## Cómo trabajar con el usuario
 
 - Responde siempre en **español**.
+- **Termina SIEMPRE con un resumen** de todo lo hecho: qué has hecho, dónde (tienda, repositorio o ninguno), qué ha quedado pendiente y qué decisiones necesitas del responsable. Hazlo en cada respuesta en la que hayas trabajado, no solo al final de la sesión. Es una orden expresa del responsable.
 - Explica **paso a paso qué haces y dónde lo aplicas** (tienda o repositorio), con una tabla de estado cuando haya varios pasos. El usuario lo pide expresamente.
 - Antes de un cambio grande en la tienda, explica qué vas a hacer. Shopify pide confirmación de cada mutación.
 - No guardes datos personales (teléfono, email) en el repositorio.

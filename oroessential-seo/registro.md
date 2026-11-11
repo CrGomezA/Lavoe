@@ -26,6 +26,7 @@ Historial de lo hecho en cada sesión. Las entradas más recientes van arriba.
 - Quiere que se le explique paso a paso qué se hace y dónde.
 - **Todos los agentes deben revisar primero las instrucciones del agente** antes de empezar cualquier tarea. Están en el `README.md` de `main`, que **se queda con ese nombre**.
 - **`README.md` bloqueado en solo lectura** hasta nueva orden. Bloqueo aplicado con una regla `deny` y el hook `.claude/hooks/proteger-readme.sh` en `.claude/settings.json`, y comprobado en la sesión.
+- **Terminar siempre con un resumen** de todo lo hecho, dónde, lo pendiente y las decisiones necesarias.
 - **No crear más colecciones** hasta tener suficientes productos de calidad. Las 4 colecciones creadas hoy se mantienen.
 - **Siguiente paso:** explorar cada sección del catálogo (Hogar · Cocina · Electrónica · Accesorios personales · Regalos premium) y buscar productos que cumplan los criterios del README y se puedan vender por dropshipping.
 
