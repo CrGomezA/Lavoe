@@ -1,6 +1,8 @@
 # Memoria del proyecto
 
-Este repositorio se usa como espacio de trabajo del **proyecto SEO y de marketing de la tienda Shopify oroessential.com**.
+> **ANTES DE NADA: lee el archivo `agent.md`.** Contiene las instrucciones del agente: reglas de oro, el negocio, los criterios de selección de productos, la seguridad en Shopify, el estilo de los textos, el catálogo y los precios. Revísalo al empezar **cada** sesión, antes de cualquier tarea. Si algo de este archivo contradice `agent.md`, manda `agent.md`.
+
+Este repositorio se usa como espacio de trabajo de la **gestión de la tienda Shopify oroessential.com** (SEO, catálogo, informes).
 
 - **Ignora la web «Lavoe Arroz y Mar»** (`index.html`, `styles.css`): no la modifiques ni propongas cambios sobre ella.
 - El estado actual del proyecto, las tareas pendientes y el plan están en `oroessential-seo/README.md`.
@@ -18,7 +20,7 @@ Este repositorio se usa como espacio de trabajo del **proyecto SEO y de marketin
 
 - Shopify (plan Basic), mercado España, EUR. Conectada a través del servidor MCP de Shopify.
 - La mayor parte del catálogo viene de **Shopify Collective** (AILANA JEWELRY, ÉMOLO®, Mystical Tienda, Iberic Deco, Kaimok Design, innovagizmo.com, Valquer®, BANBU, OH! beauty, Maymoo…).
-- **Enfoque de marca:** joyería de mujer con baño de oro 18k y plata de ley 925. El resto de categorías (belleza, hogar, electrónica) son secundarias.
+- **Tipo de tienda** (según `agent.md`): productos cotidianos de alta gama (hogar, cocina, electrónica y objetos de valor de uso común), solo de calidad contrastada y bien valorados. En noviembre de 2026 el catálogo real es sobre todo joyería y belleza. Cualquier cambio de enfoque lo decide el responsable: tú propones.
 - Colecciones manuales: `joyeria`, `collares`, `pulseras`, `anillos`, `regalos-para-mujer`, `hogar`, `electronica`, `relojes`, `auriculares`, `cuidado-del-pelo`, `cuidado-de-la-piel`, `electrodomesticos` (se ve vacía).
 - Blog: `noticias`.
 

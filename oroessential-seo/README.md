@@ -52,7 +52,7 @@ Por orden de impacto:
 
 ## Plan para las próximas semanas
 
-1. **Enfoque de marca**: el nombre «Oro Essential» encaja con la joyería. Conviene que la joyería con baño de oro y plata 925 sea el eje de la tienda (portada, menú y contenido), y que el resto de categorías queden como secundarias. Un catálogo muy mezclado (sofá infantil, relojes, cremas, lámparas) hace que Google no sepa para qué búsquedas posicionar la tienda.
+1. **Enfoque (decisión pendiente del responsable)**: según `agent.md`, la tienda es de productos cotidianos de alta gama (hogar, cocina, electrónica y objetos de valor), con un filtro estricto (≥ 4,5/5 con ≥ 500 reseñas, marca reconocida, garantía de 2 años y CE). El catálogo actual es sobre todo joyería y belleza de Shopify Collective, y habrá que revisar qué productos cumplen ese filtro. Un catálogo muy mezclado hace que Google no sepa para qué búsquedas posicionar la tienda, así que conviene alinear catálogo, colecciones y contenido con el enfoque que se decida.
 2. **Descripciones propias**: muchas fichas copian el texto del proveedor (Shopify Collective). Google suele priorizar al proveedor original, así que conviene reescribir con tus palabras al menos las 10 fichas más importantes.
 3. **Blog**: 2 artículos al mes respondiendo a preguntas reales. Ideas en [`palabras-clave.md`](palabras-clave.md).
 4. **Reseñas**: instalar una app de reseñas (Shopify Product Reviews, Judge.me…) para que salgan estrellas en Google y aumente la confianza.

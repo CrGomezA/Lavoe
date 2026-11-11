@@ -5,6 +5,13 @@ description: Flujo de trabajo y convenciones para auditar y mejorar el SEO de la
 
 # SEO de la tienda oroessential.com
 
+## 0. Antes de empezar
+
+- Lee `agent.md`: reglas de oro, seguridad en Shopify, estilo de los textos (tono, estructura, textos originales) y catálogo. Lo que diga `agent.md` manda sobre esta skill.
+- Revisa `oroessential-seo/registro.md` y la carpeta de memoria por si hay decisiones o tareas pendientes.
+- Si te falta un dato (precio, especificación, plazo de envío…), **pregunta**. No lo inventes.
+- Explica lo que vas a cambiar en la tienda y espera el «sí» del responsable antes de aplicarlo.
+
 ## 1. Auditoría (solo lectura)
 
 Usa las herramientas del servidor MCP de Shopify. Antes de escribir una consulta, comprueba los campos con `graphql_schema`, porque algunos están obsoletos (por ejemplo `Collection.ruleSet` y `Publication.name`).

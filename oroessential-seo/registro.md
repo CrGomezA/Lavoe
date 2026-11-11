@@ -24,6 +24,8 @@ Historial de lo hecho en cada sesión. Las entradas más recientes van arriba.
 **Decisiones del usuario:**
 - Olvidar la web Lavoe Arroz y Mar: la empresa se centra en oroessential.com.
 - Quiere que se le explique paso a paso qué se hace y dónde.
+- **Todos los agentes deben revisar primero `agent.md`** antes de empezar cualquier tarea.
+- Las instrucciones del agente (reglas de oro, negocio, criterios de productos, seguridad, estilo, catálogo y precios) están por ahora en el `README.md` de `main`. Hay que confirmar si pasan a `agent.md`.
 
 **Pendiente (lo tiene que hacer el usuario):** Search Console, políticas y aviso legal, app Google & YouTube, menú de navegación, publicar el blog y la meta descripción de la portada. Ver la lista en `README.md`.
 
