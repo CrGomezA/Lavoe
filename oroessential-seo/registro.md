@@ -29,6 +29,8 @@ Historial de lo hecho en cada sesión. Las entradas más recientes van arriba.
 - **No crear más colecciones** hasta tener suficientes productos de calidad. Las 4 colecciones creadas hoy se mantienen.
 - **Siguiente paso:** explorar cada sección del catálogo (Hogar · Cocina · Electrónica · Accesorios personales · Regalos premium) y buscar productos que cumplan los criterios del README y se puedan vender por dropshipping.
 
+**Investigación de productos:** se exploró la sección Cocina en Shopify Collective y no salió ningún producto apto (todos genéricos, con un margen del 8 % y sin reseñas). Detalle y proveedores alternativos en `catalogo/investigacion-productos.md`.
+
 **Pendiente (lo tiene que hacer el usuario):** Search Console, políticas y aviso legal, app Google & YouTube, menú de navegación, publicar el blog y la meta descripción de la portada. Ver la lista en `README.md`.
 
 **Pendiente (próximas sesiones):**
