@@ -1,6 +1,8 @@
 # Memoria del proyecto
 
-> **ANTES DE NADA: lee el archivo `agent.md`.** Contiene las instrucciones del agente: reglas de oro, el negocio, los criterios de selección de productos, la seguridad en Shopify, el estilo de los textos, el catálogo y los precios. Revísalo al empezar **cada** sesión, antes de cualquier tarea. Si algo de este archivo contradice `agent.md`, manda `agent.md`.
+> **ANTES DE NADA: lee el `README.md` de la rama `main`.** Son las instrucciones del agente (el responsable también lo llama «agent.md»): reglas de oro, el negocio, los criterios de selección de productos, la seguridad en Shopify, el estilo de los textos, el catálogo y los precios. Revísalo al empezar **cada** sesión, antes de cualquier tarea. Si algo de este archivo lo contradice, manda el `README.md`.
+>
+> **`README.md` está BLOQUEADO en solo lectura** por orden del responsable, hasta que él diga lo contrario. No lo modifiques, renombres, muevas ni borres. Si crees que necesita un cambio, propónselo en el chat. El bloqueo lo aplican una regla `deny` y el hook `.claude/hooks/proteger-readme.sh` (configurados en `.claude/settings.json`).
 
 Este repositorio se usa como espacio de trabajo de la **gestión de la tienda Shopify oroessential.com** (SEO, catálogo, informes).
 
@@ -22,6 +24,7 @@ Este repositorio se usa como espacio de trabajo de la **gestión de la tienda Sh
 - La mayor parte del catálogo viene de **Shopify Collective** (AILANA JEWELRY, ÉMOLO®, Mystical Tienda, Iberic Deco, Kaimok Design, innovagizmo.com, Valquer®, BANBU, OH! beauty, Maymoo…).
 - **Tipo de tienda** (según `agent.md`): productos cotidianos de alta gama (hogar, cocina, electrónica y objetos de valor de uso común), solo de calidad contrastada y bien valorados. En noviembre de 2026 el catálogo real es sobre todo joyería y belleza. Cualquier cambio de enfoque lo decide el responsable: tú propones.
 - Colecciones manuales: `joyeria`, `collares`, `pulseras`, `anillos`, `regalos-para-mujer`, `hogar`, `electronica`, `relojes`, `auriculares`, `cuidado-del-pelo`, `cuidado-de-la-piel`, `electrodomesticos` (se ve vacía).
+- **No crees más colecciones** hasta que haya suficientes productos que cumplan los criterios para dar un servicio de calidad (orden del responsable, 11/11/2026).
 - Blog: `noticias`.
 
 ## Limitaciones conocidas de las sesiones en la nube
