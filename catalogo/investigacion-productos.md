@@ -47,4 +47,4 @@ Las fuentes son blogs y comparativas, no páginas oficiales. Hay que confirmar c
 ## Pendiente
 
 - [ ] Explorar Hogar, Electrónica, Accesorios personales y Regalos premium en Shopify Collective.
-- [ ] Decidir si se evalúan BigBuy, Spocket, Syncee o Hertwill. Requieren que el responsable cree una cuenta e instale la app.
+- [ ] Decidir si se evalúan BigBuy, Spocket, Syncee o Hertwill. Requieren que el responsable cree una cuenta e instale la app. **Atención: estos proveedores suelen tener planes o conectores de pago.** No se contrata ni se instala nada sin su autorización expresa. Antes, hay que comprobar el precio y si existe una opción gratuita.

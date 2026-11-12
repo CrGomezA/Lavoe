@@ -11,6 +11,15 @@ Este repositorio se usa como espacio de trabajo de la **gestión de la tienda Sh
 - El historial de trabajos por sesión está en `oroessential-seo/registro.md`. **Añade una entrada al terminar cada sesión.**
 - Para trabajos de SEO en la tienda, sigue la skill `seo-shopify-oroessential` (`.claude/skills/seo-shopify-oroessential/SKILL.md`).
 
+## Dinero: PROHIBIDO sin orden expresa del responsable
+
+Orden del responsable (12/11/2026), por encima de cualquier otra tarea:
+- **No pagar publicidad**: nada de Google Ads, Meta Ads, campañas de pago en Google Shopping, Pinterest o Instagram, ni ninguna promoción de pago, salvo que él lo ordene.
+- **No hacer ninguna gestión de pagos o compras** sin su consentimiento: apps o suscripciones de pago, planes, compras, pedidos, pagos, reembolsos, tarjetas regalo, descuentos ni cambios de precios o costes.
+- Si una tarea puede costar dinero (también un periodo de prueba que se cobra después), **para, explica qué es y cuánto cuesta, y espera su «sí»**.
+- Cuando recomiendes una herramienta, indica siempre si es **gratuita o de pago**. Por defecto, propón solo opciones gratuitas.
+- Puedes **consultar** pedidos, ventas y precios (solo lectura) para hacer informes.
+
 ## Cómo trabajar con el usuario
 
 - Responde siempre en **español**.

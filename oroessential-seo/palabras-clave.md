@@ -1,6 +1,6 @@
 # Mapa de palabras clave
 
-Cada página de la tienda apunta a un grupo de búsquedas distinto, para que no compitan entre sí. Son estimaciones según la intención de búsqueda, sin datos de volumen. Conviene confirmarlas con Search Console cuando empiece a haber datos, o con el Planificador de palabras clave de Google Ads.
+Cada página de la tienda apunta a un grupo de búsquedas distinto, para que no compitan entre sí. Son estimaciones según la intención de búsqueda, sin datos de volumen. Conviene confirmarlas con Google Search Console (gratis) cuando empiece a haber datos.
 
 | Página | Búsquedas objetivo |
 |---|---|

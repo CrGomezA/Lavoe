@@ -41,7 +41,7 @@ Por orden de impacto:
 
 - [ ] **Google Search Console**: añadir `oroessential.com` como propiedad, verificarla y enviar el sitemap `https://oroessential.com/sitemap.xml`. Sin esto Google tarda mucho más en descubrir la tienda.
 - [ ] **Políticas** (Configuración → Políticas): crear las de *reembolso*, *envío*, *términos del servicio* e *información de contacto*. Añadir un **aviso legal** (obligatorio en España por la LSSI: titular, NIF y domicilio). Google Merchant Center las exige.
-- [ ] **Google Shopping gratis**: instalar la app **Google & YouTube** y conectar Merchant Center. Los productos podrán salir gratis en la pestaña Shopping y en Google Imágenes.
+- [ ] **Google Shopping gratis**: instalar la app **Google & YouTube** y conectar Merchant Center. Los productos podrán salir gratis en la pestaña Shopping y en Google Imágenes. *(Gratis. Usar solo los listados gratuitos y **no activar campañas de pago** de Google Ads aunque la app las proponga.)*
 - [ ] **Meta descripción de la página de inicio** (Tienda online → Preferencias). Propuesta:
   - Título: `Oro Essential | Joyería con Baño de Oro 18k y Plata 925`
   - Descripción: `Joyería de plata de ley 925 y baño de oro 18k, cosmética y lámparas de diseño fabricadas en España. Descubre regalos únicos en Oro Essential.`
@@ -55,8 +55,8 @@ Por orden de impacto:
 1. **Enfoque (decisión pendiente del responsable)**: según `agent.md`, la tienda es de productos cotidianos de alta gama (hogar, cocina, electrónica y objetos de valor), con un filtro estricto (≥ 4,5/5 con ≥ 500 reseñas, marca reconocida, garantía de 2 años y CE). El catálogo actual es sobre todo joyería y belleza de Shopify Collective, y habrá que revisar qué productos cumplen ese filtro. Un catálogo muy mezclado hace que Google no sepa para qué búsquedas posicionar la tienda, así que conviene alinear catálogo, colecciones y contenido con el enfoque que se decida.
 2. **Descripciones propias**: muchas fichas copian el texto del proveedor (Shopify Collective). Google suele priorizar al proveedor original, así que conviene reescribir con tus palabras al menos las 10 fichas más importantes.
 3. **Blog**: 2 artículos al mes respondiendo a preguntas reales. Ideas en [`palabras-clave.md`](palabras-clave.md).
-4. **Reseñas**: instalar una app de reseñas (Shopify Product Reviews, Judge.me…) para que salgan estrellas en Google y aumente la confianza.
-5. **Redes**: conectar el canal de Facebook e Instagram de Shopify para etiquetar productos. Publicar en Pinterest, que funciona muy bien con joyería y decoración y lleva tráfico a la web.
+4. **Reseñas**: buscar una app de reseñas con **plan gratuito** para que salgan estrellas en Google y aumente la confianza. Comprobar el precio antes de instalarla: no se instala nada de pago sin autorización del responsable.
+5. **Redes**: conectar el canal de Facebook e Instagram de Shopify para etiquetar productos y publicar en Pinterest, que funciona muy bien con joyería y decoración y lleva tráfico a la web. *(Solo publicaciones **orgánicas y gratuitas**, sin anuncios de pago.)*
 6. **Medir**: revisar cada mes en Search Console las impresiones y los clics, y en Shopify (Análisis → Informes) las sesiones por origen.
 
 > El SEO tarda normalmente entre 3 y 6 meses en notarse. Google Shopping, Pinterest e Instagram pueden traer visitas mucho antes.

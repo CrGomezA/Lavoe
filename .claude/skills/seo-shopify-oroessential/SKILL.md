@@ -9,6 +9,7 @@ description: Flujo de trabajo y convenciones para auditar y mejorar el SEO de la
 
 - Lee el `README.md` de `main` (el responsable lo llama «agent.md»): reglas de oro, seguridad en Shopify, estilo de los textos (tono, estructura, textos originales) y catálogo. Lo que diga ese archivo manda sobre esta skill. Es de **solo lectura**: no lo modifiques.
 - **No crees colecciones nuevas** hasta que el responsable lo autorice.
+- **Nada que cueste dinero** sin su orden expresa: publicidad, apps de pago, descuentos, precios, pedidos o pagos. Propón solo opciones gratuitas e indica siempre si algo es de pago.
 - Revisa `oroessential-seo/registro.md` y la carpeta de memoria por si hay decisiones o tareas pendientes.
 - Si te falta un dato (precio, especificación, plazo de envío…), **pregunta**. No lo inventes.
 - Explica lo que vas a cambiar en la tienda y espera el «sí» del responsable antes de aplicarlo.
